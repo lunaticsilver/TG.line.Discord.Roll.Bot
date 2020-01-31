@@ -1,4 +1,5 @@
 # RoboYabaso@HKTRPG </br>
+[![Run on Repl.it](https://repl.it/badge/github/lunaticsilver/TG.line.Discord.Roll.Bot)](https://repl.it/github/lunaticsilver/TG.line.Discord.Roll.Bot)
 
 【HKTRPG擲骰BOT】v1.20</br> 
 最後更新時間10/31/2019, 8:59:11 PM</br> 
